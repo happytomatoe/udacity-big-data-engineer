@@ -1,0 +1,9 @@
+[submodule "data-modeling-with-postgres"]
+	path = data-modeling-with-postgres
+	url = git@github.com:happytomatoe/data-modeling-with-postgres.git
+[submodule "data-modeling-with-redshift"]
+	path = data-modeling-with-redshift
+	url = git@github.com:happytomatoe/data-modeling-with-redshift.git
+[submodule "data-modeling-with-cassandra"]
+	path = data-modeling-with-cassandra
+	url = git@github.com:happytomatoe/data-modeling-with-cassandra.git
