@@ -7,3 +7,6 @@
 [submodule "data-modeling-with-cassandra"]
 	path = data-modeling-with-cassandra
 	url = git@github.com:happytomatoe/data-modeling-with-cassandra.git
+[submodule "data-lake"]
+	path = data-lake
+	url = git@github.com:happytomatoe/data-lake.git
