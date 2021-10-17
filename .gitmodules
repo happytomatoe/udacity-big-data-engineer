@@ -10,3 +10,6 @@
 [submodule "data-lake"]
 	path = data-lake
 	url = git@github.com:happytomatoe/data-lake.git
+[submodule "data-pipelines-with-airflow"]
+	path = data-pipelines-with-airflow
+	url = git@github.com:happytomatoe/data-pipelines-with-airflow.git
