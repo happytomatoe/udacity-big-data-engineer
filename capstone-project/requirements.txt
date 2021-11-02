@@ -1,10 +1,11 @@
 pyspark
-pandas
+pyarrow
+koalas
+
 jupyter
 ipykernel
 jupyterthemes
 jupyter_contrib_nbextensions
-
 yapf
 isort
 autopep8

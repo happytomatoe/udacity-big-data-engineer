@@ -71,22 +71,17 @@ jupter-install: venv
 	jupyter nbextension enable varInspector/main
 	jupyter nbextension enable snippets/main
 	jupyter nbextension enable scroll_down/main
-
 	jupyter nbextension enable navigation-hotkeys/main
 	jupyter nbextension enable code_prettify/autopep8
-
 	jupyter nbextension enable runtools/main
-#	jupyter nbextension enable keyboard_shortcut_editor/main
-# disable help(H)
-
 	jupyter nbextension enable livemdpreview/livemdpreview
 	jupyter nbextension enable help_panel/help_panel
 	jupyter nbextension enable autoscroll/main
 	jupyter nbextension enable limit_output/main
 
-run: jupter-install
+run: venv
 	./setup.sh
-	$(VENV_ACTIVATE) &&jupyter notebook Capstone\ Project\ Template.ipynb
+	$(VENV_ACTIVATE) &&jupyter notebook Capstone\ Project\ Yelp.ipynb
 
 doc: venv
 	$(VENV_ACTIVATE) && cd docs; make html
