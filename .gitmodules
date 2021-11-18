@@ -14,5 +14,5 @@
 	path = data-pipelines-with-airflow
 	url = git@github.com:happytomatoe/data-pipelines-with-airflow.git
 [submodule "udacity-capstone-project"]
-	path = udacity-capstone-project
+	path = capstone-project
 	url = git@github.com:happytomatoe/udacity-capstone-project.git
