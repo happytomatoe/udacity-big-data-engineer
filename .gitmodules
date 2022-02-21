@@ -13,3 +13,6 @@
 [submodule "data-pipelines-with-airflow"]
 	path = data-pipelines-with-airflow
 	url = git@github.com:happytomatoe/data-pipelines-with-airflow.git
+[submodule "yelp-etl-pipeline"]
+	path = yelp-etl-pipeline
+	url = https://github.com/happytomatoe/yelp-etl-pipeline.git
