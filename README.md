@@ -4,7 +4,7 @@
 All projects of Udacity's Data Engineering Nanodegree.
 
 [Course page](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
-<br>
+<br><br>
 Educational Objectives: Student learns to
 - Create user-friendly relational and NoSQL data models
 - Create scalable and efficient data warehouses
